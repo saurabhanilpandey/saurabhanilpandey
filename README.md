@@ -16,40 +16,49 @@
   
   <!-- Greetings -->
   <h1>
-    Hello
+    Hello, I'm Saurabh! 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
 
 ### About Me :
-- 🔭 I’m currently a Post Graduate Student at [Banaras Hindu University](https://bhu.ac.in/Site/Home/1_2_16_Main-Site)
-- 🌱 I’m currently learning about Deep Learning, Natural Language Processing and Computer Vision
--  💬 Ask me about anything related to tech
+- 🔭 I’m a post-graduate student at [Banaras Hindu University](https://bhu.ac.in/Site/Home/1_2_16_Main-Site), pursuing Master's in Computer Science
+- 🌱 I’m currently learning about deep learning, natural language processing and computer vision
+- 👯 I’m looking to collaborate on projects based on artificial intelligence
+- 💬 Ask me about anything related to artificial intelligence, astronomy, and robotics
 
 ---
 
 ### Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="50" height="50"/>
 </div>
 
 ---
 
 ### My Statistics :
 <div align ="center">
-  
   <!-- Github Statistics -->
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saurabhanilpandey&theme=dark&background=000000)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=saurabhanilpandey&theme=gruvbox"/></a>
   
   <!-- Top Lanaguage -->
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhanilpandey&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhanilpandey&layout=compact&theme=dark"/></a>
 </div>
 
+---
+
+### 
 <!--
 **saurabhanilpandey/saurabhanilpandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
